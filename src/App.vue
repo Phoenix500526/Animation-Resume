@@ -155,17 +155,16 @@ html{
 开源项目
 ----
 **C++ 项目**:
-> 1. [基于 http 协议实现的 web 服务器 TinyWebServer](git@github.com:Phoenix500526/TinyWebServer.git)
-> 2. [基于 Reactor 模式实现的网络库 Tmuduo](git@github.com:Phoenix500526/Tmuduo.git)
-> 3. [基于 DFA 实现的正则表达式引擎 T-Reg](git@github.com:Phoenix500526/T-Reg.git)
+> 1. [基于 http 协议实现的 web 服务器 TinyWebServer](https://github.com/Phoenix500526/TinyWebServer.git)
+> 2. [基于 Reactor 模式实现的网络库 Tmuduo](https://github.com/Phoenix500526/Tmuduo.git)
+> 3. [基于 DFA 实现的正则表达式引擎 T-Reg](https://github.com/Phoenix500526/T-Reg.git)
 
 **Golang 项目**:
-> 1. [简易版分布式缓存系统 go-cache](git@github.com:Phoenix500526/go-cache.git)
+> 1. [简易版分布式缓存系统 go-cache](https://github.com/Phoenix500526/go-cache.git)
 > 2. [简易版 web 框架 go-web](https://github.com/Phoenix500526/go-web)
 
 **Other**
 > 1. [基于 Hexo 框架实现的个人技术网站 —— Hacker-cube](https://www.hacker-cube.com)
-
 
 链接
 ----
