@@ -1,7 +1,4 @@
-﻿**本项目源于：[https://github.com/jirengu-inc/animating-resume](https://github.com/jirengu-inc/animating-resume "https://github.com/jirengu-inc/animating-resume")。我在原始代码的基础上，删除了一些冗余代码，填平了一些编译及部署上的坑，在此向作者表示深深的敬意。**
-
-# Animation Resume
-
+﻿# Animation Resume
 
 ## 使用方法
 ```bash
@@ -41,3 +38,6 @@ PS：在第 5 步中www.hacker-cube.com 是我的个人域名。如果你没有�
 ## License
 
 [Apache License](./LICENSE)
+
+## 致谢
+**本项目源于：[https://github.com/jirengu-inc/animating-resume](https://github.com/jirengu-inc/animating-resume "https://github.com/jirengu-inc/animating-resume") 。我在原始代码的基础上，删除了一些冗余代码，填平了一些编译及部署上的坑，在此向作者表示深深的敬意。**
