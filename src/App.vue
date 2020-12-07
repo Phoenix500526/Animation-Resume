@@ -162,9 +162,12 @@ html{
 **Golang 项目**:
 > 1. [简易版分布式缓存系统 go-cache](https://github.com/Phoenix500526/go-cache.git)
 > 2. [简易版 web 框架 go-web](https://github.com/Phoenix500526/go-web)
+> 3. [简易版 ORM 框架 go-ORM](https://github.com/Phoenix500526/go-ORM.git)
+> 4. [简易版 RPC 框架 go-rpc](https://github.com/Phoenix500526/go-rpc.git)
 
 **Other**
 > 1. [基于 Hexo 框架实现的个人技术网站 —— Hacker-cube](https://www.hacker-cube.com)
+> 2. [动态简历 Animation-Resume](https://github.com/Phoenix500526/Animation-Resume.git)
 
 链接
 ----
